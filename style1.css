@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url(https://img.freepik.com/free-photo/green-park-view_1417-1487.jpg?w=1380&t=st=1689583559~exp=1689584159~hmac=0a63c013c27d95c7cc23d754cc8bd8fea9a1b332fda01e19dc4468b3934fd582);
   }
   
   .container {
@@ -22,6 +23,7 @@ body {
     text-align: center;
     margin-top: 50px;
     color: #333;
+    
   }
   
   h2:hover{
